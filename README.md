@@ -1,5 +1,5 @@
 # 🧭 Cultural Adversarial Prompt Benchmark Phase III  
-**ChronoRefiner v5 - Temporal Context Framework**  
+**ChronoRefiner v5.0 - Temporal Context Framework**  
 *by Hideyuki Okabe*
 
 ---
@@ -14,12 +14,12 @@
 ## 📘 Overview
 
 This repository documents the **Uber GenMedia (MSPO-624) Cultural Adversarial Prompt Benchmark – Phase III**,  
-completed using the **ChronoRefiner v5 Temporal Context Framework**.  
+completed using the **ChronoRefiner v5.0 Temporal Context Framework**.  
 
 The project evaluates how AI models express emotion, culture, and ethics within generative contexts,  
 focusing on **ethical neutrality, creative ambiguity, and cultural sensitivity**.
 
-> 🔹 Framework: *ChronoRefiner v5 – Temporal Context / ΔS Tracking Enabled*  
+> 🔹 Framework: *ChronoRefiner v5.0 – Temporal Context / ΔS Tracking Enabled*  
 > 🔹 Completion: *#1–#100 Tasks*  
 > 🔹 Locale: *ja-JP → English*  
 > 🔹 License: *CC BY-NC-SA 4.0 (Prompt & Explain sections only)*  
@@ -77,7 +77,7 @@ focusing on **ethical neutrality, creative ambiguity, and cultural sensitivity**
 
 ## 📁 Repository Structure
 
-ChronoRefiner-v5_UberGenMedia_PhaseIII/
+ChronoRefiner-v5.0_UberGenMedia_PhaseIII/
 ├── UberGenMedia_PhaseIII_CompletionLog.md # Official Completion Log (English)
 ├── /assets/ # Optional visual datasets or prompt examples
 └── README.md # You are here
@@ -103,4 +103,4 @@ Usage is permitted for research and educational purposes with proper attribution
 ---
 
 © 2025 Hideyuki Okabe  
-Generated using **ChronoRefiner v5 – Temporal Context Engine**
+Generated using **ChronoRefiner v5.0 – Temporal Context Engine**
