@@ -78,9 +78,10 @@ focusing on **ethical neutrality, creative ambiguity, and cultural sensitivity**
 ## 📁 Repository Structure
 
 ChronoRefiner-v5_UberGenMedia_PhaseIII/
-├── UberGenMedia_PhaseIII_CompletionLog.md # Official Completion Log (English)
-├── assets/ # Optional visual datasets or prompt examples
-└── README.md # You are here
+├── UberGenMedia_PhaseIII_CompletionLog.md   # Official Completion Log (English)
+├── assets/                                  # Optional visual datasets or prompt examples
+└── README.md                                # You are here
+
 
 ---
 
